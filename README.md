@@ -1,6 +1,6 @@
 # Seismic Data Interpolation
 
-本项目包含两种地震数据插值方法的实现：
+本项目汇总两种地震数据插值方法的实现：
 
 - **MWNI** - Minimum Weighted Norm Interpolation
 - **Radon** - Frequency Domain Anti-aliasing Greedy Radon Transform
